@@ -1,4 +1,5 @@
 # About me
+[![fr](https://img.shields.io/badge/lang-fr-orange)](https://github.com/JulianCalicis/JulianCalicis/blob/main/README.fr.md)
 <!-- todo: Add about me content -->
 # Technical Skills
 <!-- 
