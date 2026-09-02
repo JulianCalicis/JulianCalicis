@@ -1,6 +1,14 @@
+[![en](https://img.shields.io/badge/lang_🔗-en-orange)](https://github.com/JulianCalicis/JulianCalicis/blob/main/README.md)
 # À propos de moi
-[![en](https://img.shields.io/badge/lang-en-orange)](https://github.com/JulianCalicis/JulianCalicis/blob/main/README.md)
-<!-- todo: Mettre à propos de moi ici -->
+
+Salut, c'est moi, Julian Calicis, je suis développeur .NET Junior, accro aux jeux vidéos et ami des chats.
+
+Je m'améliore chaque jour en rendant le code que j'écris plus propre et en expérimentant des technologies sur des applications que je développe. 
+
+Pour le moment, j'étudie à [![Technifutur](https://img.shields.io/badge/Technifutur_🔗-005694)](https://technifutur.be/) en suivant la formation développeur .NET qu'ils proposent, en collaboration avec [![Cefora](https://img.shields.io/badge/Cefora%20%20🔗-1f145d)](https://www.cevora.be/fr).
+
+Je suis aussi à la recherche d'une stage d'une durée de 3 mois. N'hésitez donc pas à me contacter si mon profil vous intéresse.
+
 # Compétences techniques
 <!-- 
 In_Progress-green  En_Cours-green
