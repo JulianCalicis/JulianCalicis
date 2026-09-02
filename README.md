@@ -1,6 +1,15 @@
+[![fr](https://img.shields.io/badge/lang_🔗-fr-orange)](https://github.com/JulianCalicis/JulianCalicis/blob/main/README.fr.md)
 # About me
-[![fr](https://img.shields.io/badge/lang-fr-orange)](https://github.com/JulianCalicis/JulianCalicis/blob/main/README.fr.md)
-<!-- todo: Add about me content -->
+
+Hi, it's me, Julian Calicis, I'm a .NET Junior dev, game addict and cat friend.
+
+I improve my skills more and more by cleaning up my code and by practicing technologies on apps I develop.
+
+I currently attend to a .NET Developer course at [![Technifutur](https://img.shields.io/badge/Technifutur_🔗(fr)-005694)](https://technifutur.be/) they provide in collaboration with [![Cefora](https://img.shields.io/badge/Cefora%20%20🔗(fr)-1f145d)](https://www.cevora.be/fr).
+
+I am also searching for a 3-month internship. So don't hesitate and contact me if my profile got your attention.
+
+
 # Technical Skills
 <!-- 
 In_Progress-green  En_Cours-green
